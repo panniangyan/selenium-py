@@ -1,4 +1,4 @@
-#Feladat: Vezérlési szerkezetek gyakorlása
+# Feladat: Vezérlési szerkezetek gyakorlása
 
 A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elvárt filenevet. Ezen a néven fogadható el a megoldás.
 
