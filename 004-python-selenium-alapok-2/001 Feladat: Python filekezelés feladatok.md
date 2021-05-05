@@ -1,6 +1,6 @@
-## Feladat: Python modulok gyakorlása
+## 001 Feladat: Python filekezelés feladatok
 
 A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elvárt filenevet. Ezen a néven fogadható el a megoldás.
 
-1) Készíts egy `bmodul` nevezetű python modult. Hozz benne létre egy változót és tárol benne egy értéket. Egy másik modulban, mondjuk `main` modul, importáld be a `bmodul`-ból a változót és használd fel egy kiiratásban.
-    > A megoldást egy `bmodul.py` és egy `main.py` nevű fileban kell beadnod.
+1) Készíts egy Python alkalmazást ami selenium-ot használ. Indítsd el lokálisan a selenium-py-peldatar alkalmazást. A program töltse be a példatárból az `http://localhost:9999` oldalt. Lokátorral keresd ki az összes linket az oldalról. Tárold a memóriában egy listában az összes linket. A list tartalmát írd ki egy fájlba. Minden link egy új sorba kerüljön. A kimenetre írd ki hány linket találtál
+    > A megoldást egy `linkek.py` nevű file-ban kell beadnod.
