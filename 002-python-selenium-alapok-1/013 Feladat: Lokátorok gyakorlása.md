@@ -1,6 +1,10 @@
-## Feladat: Selenium weboldal menyitás gyakorlása
+## 013 Feladat: Lokátorok gyakorlása
 
 A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elvárt filenevet. Ezen a néven fogadható el a megoldás.
 
-1) Készíts egy Python alkalmazást ami selenium-ot használ. Nyisson meg egy Chrome böngészöt és töltsön be egy tetszőleges weblapot az Internetről. 
-    > A megoldást egy `start.py` nevű fileban kell beadnod.
+1) Készíts egy Python alkalmazást ami selenium-ot használ. Indítsd el lokálisan a selenium-py-peldatar alkalmazást. A program töltse be a példatárból az `http://localhost:9999/kitchensink.html` oldalt. Gyakorlás képpen keress ki elemekt a képernyőről az alábbi kritériumoknak megfelelően:
+    * ID alapján
+    * NAME alapján
+    * XPath kifejezéssel
+Minden megtalált elemnek irassd ki a text értékét, vagy egy attribútum értékét.
+    > A megoldást egy `locators.py` nevű fileban kell beadnod.

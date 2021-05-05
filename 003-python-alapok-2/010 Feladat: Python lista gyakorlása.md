@@ -1,8 +1,8 @@
-## Feladat: Python Adatok és változók feladat
+## 010 Feladat: Python lista gyakorlása
 
 A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elvárt filenevet. Ezen a néven fogadható el a megoldás.
 
-1) Kérjünk be két számot, és írjuk ki a különgségüket. Használd az `input()` és `print()` beépített függvényeket. 
-    > A megoldást egy `substract.py` nevű file-ban kell beadnod.
-2) Az autód 7 litert fogyaszt országúton és 9-et városban. A hévízi üdülésedre 170 kilómétert utazol országúton és 35-öt városban. Mennyit fogyaszt az autód csak oda? És oda-vissza? Mennyibe kerül a teljes út, ha 350 Ft a benzin? Oldd meg ezt feladatot úgy, hogy nem előre megadott értékekkel (országúti fogyasztás, városi fogyasztás, országúton megtett út, városban megtett út, benzin ára) dolgozol, hanem a felhasználótól kéred ezeket be. Ahol szükséges, ne feledd konvertálni az értékeket! 
-    > A megoldást egy `consumption.py` nevű file-ban kell beadnod.
+1) . Írj egy Python programot, amely a felhasználótól pozitív számokat kér be mindaddig, amíg a
+felhasználó nullát nem ad be! A program az összes értéket tárolja egy listában, majd írja ki a
+képernyőre a lista elemeit fordított sorrendben! 
+    > A megoldást egy `fordito.py` nevű file-ban kell beadnod.
