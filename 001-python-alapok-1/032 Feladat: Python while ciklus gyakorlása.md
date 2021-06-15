@@ -5,3 +5,6 @@ A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elv
 
 1) Írj programot, mely addig olvas be számokat a billentyűzetről, ameddig azok kisebbek, mint tíz. Írja ki ezek után a beolvasott számok összegét!
 > A megoldást egy `tenbelow.py` nevű file-ban kell beadnod.
+
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `python-homework` nevű mappába helyezd el.
