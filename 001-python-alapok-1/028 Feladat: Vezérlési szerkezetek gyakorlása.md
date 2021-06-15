@@ -7,3 +7,6 @@ kiskorú, és sört kér, akkor közöld vele, hogy sajnos nem adhatsz neki. Ha 
 akkor közöld vele, hogy a koffein megemelheti a vérnyomását. Ha ismeretlen italt adott meg, akkor írd ki, hogy csak
 sört és kólát tudunk adni. Minden más esetben szolgáld ki. (Írd ki pl. "Parancsoljon, a söre." vagy "Parancsoljon,a kólája.")
 > A megoldást egy `bartender.py` nevű file-ban kell beadnod.
+
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `python-homework` nevű mappába helyezd el.
