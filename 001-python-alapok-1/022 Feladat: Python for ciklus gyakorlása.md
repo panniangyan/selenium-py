@@ -14,3 +14,5 @@ e 101 j 106
 A megoldashoz használd a beépített `ord()` es `chr()` függvényeket.
 > A megoldást egy `charsandord.py` nevű file-ban kell beadnod.
 
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `python-homework` nevű mappába helyezd el.
