@@ -8,3 +8,7 @@ A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elv
     * XPath kifejezéssel
 Minden megtalált elemnek irassd ki a text értékét, vagy egy attribútum értékét.
     > A megoldást egy `locators.py` nevű fileban kell beadnod.
+    
+
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium-homework` nevű mappába helyezd el.
