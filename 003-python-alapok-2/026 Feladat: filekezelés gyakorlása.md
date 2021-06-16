@@ -26,3 +26,7 @@ Ezt mentsd le magadnál. Ezt kell majd beolvasnod a feladat során.
     > A megoldást egy `fajl4.py` nevű file-ban kell beadnod.
 5) Olvasd be a fájlt, és írd ki a tartalmát egy másik fájlba, úgy, hogy nem tárolod el a szöveget, hanem minden sort azonnal kiírsz! 
     > A megoldást egy `fajl5.py` nevű file-ban kell beadnod.
+
+
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `python2-homework` nevű mappába helyezd el.
