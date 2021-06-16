@@ -66,3 +66,6 @@ looking as fierce as a commander."""
 
 > A megoldást egy `charsandord.py` nevű file-ban kell beadnod.
 
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `python2-homework` nevű mappába helyezd el.
+
