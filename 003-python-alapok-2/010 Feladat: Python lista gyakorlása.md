@@ -6,3 +6,6 @@ A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elv
 felhasználó nullát nem ad be! A program az összes értéket tárolja egy listában, majd írja ki a
 képernyőre a lista elemeit fordított sorrendben! 
     > A megoldást egy `fordito.py` nevű file-ban kell beadnod.
+    
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `python2-homework` nevű mappába helyezd el.
