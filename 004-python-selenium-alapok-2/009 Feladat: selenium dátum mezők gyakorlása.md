@@ -6,4 +6,5 @@ A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elv
 ![assets/dates.png](assets/dates.png)
     > A megoldást egy `setdates.py` nevű fileban kell beadnod.
 
-
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium2-homework` nevű mappába helyezd el.
