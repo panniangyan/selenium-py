@@ -7,3 +7,6 @@ a) Addj hozzá még két teljsen kitöltött sort. Ellenőrizd, hogy tényleg ho
 b) Ellenőrizd a kereső funkciót.
 c) írd át a táblázat egyes celláit és ellenőrizd, hogy megfelelően frissült-e a DOM struktúra.
     > A megoldást egy `edittable.py` nevű fileban kell beadnod.
+    
+## Feladat beadása
+A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium2-homework` nevű mappába helyezd el.
