@@ -2,7 +2,7 @@
 
 A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elvárt filenevet. Ezen a néven fogadható el a megoldás.
 
-1) rj programot, ami kiírja a kisbetűket, és melléjük az ASCII kódjukat! A kiírás több
+1) rj programot, ami kiírja a kisbetűket, és melléjük az karakter kódjukat! A kiírás több
 oszlopos legyen, és legfeljebb 10 soros. Minta:
 ```
 a 97 f 102 .....
