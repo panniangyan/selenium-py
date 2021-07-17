@@ -6,4 +6,4 @@ A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elv
     > A megoldást egy `alertfun.py` nevű fileban kell beadnod.
 
 ## Feladat beadása
-A fent eméített python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium2-homework` nevű mappába helyezd el.
+A fent említett python fájlokat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium2-homework` nevű mappába helyezd el.
