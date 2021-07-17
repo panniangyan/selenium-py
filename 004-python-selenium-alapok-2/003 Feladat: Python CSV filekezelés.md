@@ -1,6 +1,6 @@
-## 003 Feladat: Python CSV filekezelés
+## 003 Feladat: Python CSV fájlkezelés
 
-A feladatokat külön python fileban oldd meg. Minden feladat tartalmazza az elvárt filenevet. Ezen a néven fogadható el a megoldás.
+A feladatokat külön python fájlban oldd meg. Minden feladat tartalmazza az elvárt fájlnevet. Ezen a néven fogadható el a megoldás.
 
 Adott az alábbi csv tartalom
 ```
@@ -12,7 +12,7 @@ Kis Franciska, franciska.kiss@sel.hu,1999-01-20, 06666 666666
 ```
 Mentsd ezt el egy table_in.csv szöveges állományba. Ezzel fogsz dolgozni.
 
-1) Készíts egy python programot ami a fenti adatfájlból készít egy másik adatfájl-t ami csak az emailím és név oszlopokat tartalmazza.
+1) Készíts egy python programot ami a fenti adatfájlból készít egy másik adatfájl-t ami csak az emaicím és név oszlopokat tartalmazza.
 Tehát például:
 ```
 Email,Name
@@ -21,8 +21,8 @@ ervin.nagy@sel.hu,Nagy Ervin
 ...
 ```
 
-    > A megoldást egy `csvszures.py` nevű fileban kell beadnod.
+    > A megoldást egy `csvszures.py` nevű fájlban kell beadnod.
     
 ## Feladat beadása
-A fent említett python file-okat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium2-homework` nevű mappába helyezd el.
+A fent említett python fájlokat és benne a megoldásodat kérlek a saját `selenium-py-peldatar` github repo forkodban egy `selenium2-homework` nevű mappába helyezd el.
 
